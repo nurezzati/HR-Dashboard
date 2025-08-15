@@ -1,4 +1,4 @@
-# HR-Dashboard
+# HR Dashboard
 ![image](HR-Dashboard.png)
 
 Data source - The dataset is taken from Youtube Channel Code Basics: https://www.youtube.com/watch?v=JC66t9eM10s&t=453s
