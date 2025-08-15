@@ -43,4 +43,8 @@ Highlighted actionable insights, such as:
 3. If the company adopts a hybrid work model (e.g., two days working from home and three days in the office), these findings can support more accurate capacity planning.
 4. Allows the organization to optimize workspace usage and potentially reduce infrastructure costs through better space utilization.
 
+Learning Takeaways
+1. Learnt how to create measures using DAX
+2. Gain understanding on how to analyze data in HR domain
+   
 
