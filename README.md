@@ -22,20 +22,20 @@ Key Questions
 1. Data Acquisition: Received the raw employee presence dataset directly from AtliQ Technologies. Ensured data privacy by anonymizing sensitive employee information.
 2. Data Cleaning & Transformation using Power Query: Removed duplicate entries and standardized date formats.
 3. Defined calculated measures in DAX for key KPIs:
-   i. Presence %
-   iiSick Leave (SL) %
-   c) WFH %
-   d) Presence count
-   e) Sick Leave (SL) count
-   f) WFH count
-5. Dashboard Design: Built an interactive HR Presence Dashboard in Power BI featuring:
-   a) KPI cards for quick HR overview comprising Present, WFH and SL %
-   b) Line charts to slice and dice by time to show attendance pattern
+   1. Presence %
+   2. Sick Leave (SL) %
+   3. WFH %
+   4. Presence count
+   5. Sick Leave (SL) count
+   6. WFH count
+4. Dashboard Design: Built an interactive HR Presence Dashboard in Power BI featuring:
+   1. KPI cards for quick HR overview comprising Present, WFH and SL %
+   2. Line charts to slice and dice by time to show attendance and presence pattern
 6. Delivery & Insights: Delivered a single, interactive Power BI dashboard that HR could use to filter data dynamically.
 
 Highlighted actionable insights, such as:
-   a) Remote work spikes during specific periods.
-   b) Seasonal attendance dips allowing HR to plan engagement activities.
+1. Remote work spikes during specific periods.
+2. Seasonal attendance dips allowing HR to plan engagement activities.
 
 📊 Results & Impact
 1. Enabled HR to drill down into working pattern behaviour of WFH and WFO among epmloyee
