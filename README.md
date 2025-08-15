@@ -9,8 +9,7 @@ Key Questions
 3. What is presence percentage of the employee?
 
 📌 Project Background
-As data analyst, we need to collaborate with an HR representative from AtliQ Technologies, who provided detailed requirements for the dashboard. The HR team needed a centralized reporting solution to answer questions such as:
-
+--> As data analyst, we need to collaborate with an HR representative from AtliQ Technologies, who provided detailed requirements for the dashboard. The HR team needed a centralized reporting solution to analyze employee presence and absence and their working behaviour between WFH and WFO.
 
 🛠 Tools & Technologies Used
 1. Power BI – For data visualization and interactive reporting.
